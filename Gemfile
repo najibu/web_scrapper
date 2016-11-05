@@ -54,4 +54,7 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem "validate_url"
+
+gem 'annotate'
 
