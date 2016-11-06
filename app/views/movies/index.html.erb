@@ -22,7 +22,7 @@
       <tr>
         <td><%= movie.title %></td>
         <td><%= movie.hotness %></td>
-        <td><%= movie.image_url %></td>
+        <td><%= image_tag movie.image_url %></td>
         <td><%= movie.rating %></td>
         <td><%= movie.genre %></td>
         <td><%= movie.director %></td>
@@ -38,4 +38,3 @@
 
 <br>
 
-<%= link_to 'New Movie', new_movie_path %>
