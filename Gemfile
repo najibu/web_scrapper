@@ -58,3 +58,6 @@ gem "validate_url"
 
 gem 'annotate'
 
+gem 'nokogiri'
+
+gem 'utf8_utils'
