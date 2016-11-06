@@ -1,24 +1,6 @@
-# README
+# Rails Web Scraper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sometimes you want to fetch data from multiple sites and copy and pasting is not a scalable solution. In this recipe, I have built a web scraper that automatically fetches  data from a site and stores it in your database.
 
-Things you may want to cover:
+### Thanks for checking out Rails web scrapper app.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
